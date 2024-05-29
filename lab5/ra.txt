@@ -1,0 +1,20 @@
+ho ten: phung tuan anh
+nam sinh: 2004
+hanh kiem: tot
+diem: 9
+hoc phi: 1e+06
+ho ten: bbb
+nam sinh: 2000
+hanh kiem: kha
+diem: 7
+hoc phi: 2e+06
+ho ten: ccc
+nam sinh: 1990
+hanh kiem: yeu
+diem: 8
+hoc phi: 5e+06
+ho ten: dddd
+nam sinh: 2001
+hanh kiem: tot
+diem: 10
+hoc phi: 9e+06

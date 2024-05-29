@@ -1,0 +1,12 @@
+
+# bỏ qua các file có đuôi
+*.exe
+*.out
+*.app
+
+# bỏ qua thư mục .vscode
+.vscode/
+
+# bỏ qua thư mục test
+
+test/
